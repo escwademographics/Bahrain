@@ -52,17 +52,17 @@ if submit and email == actual_email and password == actual_password:
         st.image("SUB HEADER.PNG")
     col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
     with col1:
-        st.write("[Population - السكان](https://docs.google.com/spreadsheets/d/1oYXMUIZZ_DHt_hLrxV6s4uR_uZF7n0UE/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
+        st.write("[Population - السكان](https://docs.google.com/spreadsheets/d/13HRFWK5PrABMqaY6uTKYHCrgwbf4O9Yu/edit?usp=drive_link)")
     with col2:
-        st.write("[Labor - العمالة](https://docs.google.com/spreadsheets/d/199ZN2s-QyUGAdPm2ICs0KEiF-6-mGqTm/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
+        st.write("[Labor - العمالة](https://docs.google.com/spreadsheets/d/1EhAFR4nolYa-0ex3vascnz6lI41xuQE5/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
     with col3:
         st.write("[Poverty - الفقر](https://docs.google.com/spreadsheets/d/1V-0-h09IvPL247r1ar2b6takYTizoA5j/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
     with col4:
-        st.write("[Education - التعليم](https://docs.google.com/spreadsheets/d/10LUOke0GHDmCkFM_iB5n1EdgqGimTul5/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
+        st.write("[Education - التعليم](https://docs.google.com/spreadsheets/d/1Jd1wx7RyxQMyZin-6k-VBFj30JV7KKfe/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
     with col5:
-        st.write("[Culture - الثقافة](https://docs.google.com/spreadsheets/d/1cm_GPajH8jjOLS7IEN5piPATjl4KOy-y/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
+        st.write("[Culture - الثقافة](https://docs.google.com/spreadsheets/d/1aaJfyKdfGkcYF-aT0vPuBrbD5urP0mO9/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
     with col6:
-        st.write("[Health - الصحة](https://docs.google.com/spreadsheets/d/1Erh2-7sdGUsohwD1-3tLsnk_o6G5uWne/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
+        st.write("[Health - الصحة](https://docs.google.com/spreadsheets/d/1-P7sY_IYN3ExwrtsOrpwNJHnpOsFOM8R/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
     with col7:
         st.write("[Housing Conditions - المساكن](https://docs.google.com/spreadsheets/d/1CCSqBxjaxMWdcadE5h34hm-S6om1RsTd/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")   
     
